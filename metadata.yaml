@@ -1,5 +1,8 @@
 _repo: The-Pastor-His-Qualifications-and-Duties_61170
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harvey, H. (Hezekiah)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51295'
     url: http://www.gutenberg.org/2009/agents/51295
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61170#The-Pastor-His-Qualifications-and-Duties
 gutenberg_issued: '2020-01-14'
 gutenberg_type: Text
 identifiers:
